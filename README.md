@@ -13,13 +13,13 @@
 ![Dashboard](dashboard/Dashboard.png)
 
 📄 Power BI Dashboard
-- Ecommerce_User_Behavior_Dashboard.pbix
+!{Dasboard](dashboard/Ecommerce_User_Behavior_Dashboard.pbix)
 
 📓 Jupyter Notebook
-- notebook/Ecommerce_User_Behavior_Analysis.ipynb
+![NoteBook](notebook/Ecommerce_User_Behavior_Analysis.ipynb)
 
 🗃 SQL Queries
- ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=whitesql/analysis.sql)
+ ![SQL](sql/analysis.sql)
 
 ## Overview
 
