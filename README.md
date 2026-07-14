@@ -13,7 +13,7 @@
 ![Dashboard](dashboard/Dashboard.png)
 
 📄 Power BI Dashboard
-!{Dasboard](dashboard/Ecommerce_User_Behavior_Dashboard.pbix)
+![Dasboard](dashboard/Ecommerce_User_Behavior_Dashboard.pbix)
 
 📓 Jupyter Notebook
 ![NoteBook](notebook/Ecommerce_User_Behavior_Analysis.ipynb)
