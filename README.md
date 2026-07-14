@@ -19,7 +19,7 @@
 - notebook/Ecommerce_User_Behavior_Analysis.ipynb
 
 🗃 SQL Queries
-sql/analysis.sql
+ ![SQL](sql/analysis.sql)
 
 ## Overview
 
