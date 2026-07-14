@@ -19,7 +19,7 @@
 - notebook/Ecommerce_User_Behavior_Analysis.ipynb
 
 🗃 SQL Queries
- ![SQL](sql/analysis.sql)
+ ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=whitesql/analysis.sql)
 
 ## Overview
 
