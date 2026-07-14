@@ -6,6 +6,21 @@
 
 # 🛒 E-Commerce User Behavior Analysis
 
+## 🚀 Project Showcase
+
+📊 Dashboard Screenshot
+
+![Dashboard](dashboard/Dashboard.png)
+
+📄 Power BI Dashboard
+- Ecommerce_User_Behavior_Dashboard.pbix
+
+📓 Jupyter Notebook
+- notebook/Ecommerce_User_Behavior_Analysis.ipynb
+
+🗃 SQL Queries
+- sql/analysis.sql
+
 ## Overview
 
 This project analyzes user interaction data (views, likes, and purchases) from an e-commerce platform to understand engagement patterns and identify actionable business insights. The workflow covers the full data analysis pipeline: cleaning raw data in Python, exploring it through 11 business questions in a Jupyter notebook, querying it further with SQL, and presenting the findings in an interactive Power BI dashboard.
